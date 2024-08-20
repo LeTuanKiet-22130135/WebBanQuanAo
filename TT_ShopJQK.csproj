@@ -100,6 +100,16 @@
     <Content Include="Admin\assets\vendors\js\vendor.bundle.base.js" />
     <Content Include="Admin\assets\vendors\mdi\css\materialdesignicons.min.css" />
     <Content Include="Admin\DuyetDon.aspx" />
+    <Content Include="Anh\AnhSp\Anh dọc 1.jpg" />
+    <Content Include="Anh\AnhSp\Anhao2.jfif" />
+    <Content Include="Anh\Logo\Anh1.jpg" />
+    <Content Include="Anh\Logo\Anh2.jpg" />
+    <Content Include="Anh\Logo\Anhao.jpg" />
+    <Content Include="Anh\Logo\banner.jpg" />
+    <Content Include="Anh\Logo\banner1.jpg" />
+    <Content Include="Anh\Logo\banner2.jpg" />
+    <Content Include="Anh\Logo\banner3.jpg" />
+    <Content Include="Anh\Logo\chatluong.jpg" />
     <Content Include="Global.asax" />
     <Content Include="Admin\HomeAdmin.aspx" />
     <Content Include="Admin\LoginAdmin.aspx" />
@@ -246,7 +256,7 @@
     <Content Include="GioiThieu.aspx" />
     <Content Include="LienHe.aspx" />
     <Content Include="My Account.aspx" />
-    <Content Include="NuocHoa.aspx" />
+    <Content Include="Shop.aspx" />
     <Content Include="SanPhamToc.aspx" />
     <Content Include="ThanhToan.aspx" />
     <Content Include="TimKiem.aspx" />
@@ -412,12 +422,12 @@
     <Compile Include="My Account.aspx.designer.cs">
       <DependentUpon>My Account.aspx</DependentUpon>
     </Compile>
-    <Compile Include="NuocHoa.aspx.cs">
-      <DependentUpon>NuocHoa.aspx</DependentUpon>
+    <Compile Include="Shop.aspx.cs">
+      <DependentUpon>Shop.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="NuocHoa.aspx.designer.cs">
-      <DependentUpon>NuocHoa.aspx</DependentUpon>
+    <Compile Include="Shop.aspx.designer.cs">
+      <DependentUpon>Shop.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SanPham.aspx.cs">
@@ -495,6 +505,7 @@
     <Content Include="assets\fonts\Pe-icon-7-strokebb1d.ttf" />
     <Content Include="assets\fonts\Pe-icon-7-strokebb1d.woff" />
     <Content Include="assets\fonts\Pe-icon-7-stroked41d.eot" />
+    <Content Include="Anh\Logo\Anh1.webp" />
     <None Include="packages.config" />
     <Content Include="Site1.Master" />
     <None Include="Web.Debug.config">

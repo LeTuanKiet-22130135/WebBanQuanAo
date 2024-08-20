@@ -35,7 +35,7 @@
                                 <!--Hero Content start-->
                                 <div class="hero-content-4 center">
 
-                                    <img alt="" src="Anh/Logo/Bìa SápJQK-02web.jpg" />
+                                    <img alt="" src="Anh/Logo/Anh1.jpg" />
 
                                 </div>
                                 <!--Hero Content end-->
@@ -54,7 +54,7 @@
 
                                 <!--Hero Content start-->
                                 <div class="hero-content-2 color-1 center">
-                                   <img alt="" src="Anh/Logo/Bìa SápJQK-02web.jpg" />
+                                   <img alt="" src="Anh/Logo/Anh2.jpg" />
                                 </div>
                                 <!--Hero Content end-->
 
@@ -76,7 +76,7 @@
                         <!-- Single Banner Start -->
                         <div class="single-banner mb-30">
                             <a href="#">
-                                <img src="assets/images/banner/h4-banner-1.png" alt="">
+                                <img src="Anh/Logo/banner.jpg" alt="">
                             </a>
                         </div>
                         <!-- Single Banner End -->
@@ -85,7 +85,7 @@
                         <!-- Single Banner Start -->
                         <div class="single-banner mb-30">
                             <a href="#">
-                                <img src="Anh/Logo/Anh dọc 1.jpg" alt="">
+                                <img src="Anh/Logo/banner1.jpg" alt="">
                             </a>
                         </div>
                         <!-- Single Banner End -->
@@ -94,14 +94,14 @@
                         <!-- Single Banner Start -->
                         <div class="single-banner mb-30">
                             <a href="#">
-                                <img src="Anh/Logo/anh sáp cam kevin.jpg" alt="">
+                                <img src="Anh/Logo/banner2.jpg" alt="">
                             </a>
                         </div>
                         <!-- Single Banner End -->
                         <!-- Single Banner Start -->
                         <div class="single-banner mb-30">
                             <a href="#">
-                                <img src="Anh/Logo/anh lo bolasi.jpg" alt="">
+                                <img src="Anh/Logo/banner3.jpg" alt="">
                             </a>
                         </div>
                         <!-- Single Banner End -->
@@ -296,7 +296,7 @@
                             </div>
                             <div class="content">
                                 <h2>Free shipping </h2>
-                                <p>Nội Thành Hà Nội với Tát cả các Hoá đơn</p>
+                                <p>Trong khu vực Thủ Đức và Bình Dương</p>
                             </div>
                         </div>
                         <!-- Single Faeture End -->
@@ -375,14 +375,14 @@
                     <!-- Single Blog Start -->
                     <div class="blog col">
                         <div class="blog-inner">
-                            <div class="media"><a href="blog-details.html" class="image"><img src="Anh/Logo/Loai San Pham Hari.jpg" alt=""></a></div>
+                            <div class="media"><a href="Blog.aspx" class="image"><img src="Anh/Logo/Anhao.jpg" alt=""></a></div>
                             <div class="content">
                                 <h3 class="title"><a href="blog-details.html"> 5 Loại Sản Phẩm Tốt</a></h3>
                                 <ul class="meta">
                                     <li><i class="fa fa-calendar"></i><span class="date-time"><span class="date">20</span><span class="separator">-</span><span class="month">Jul</span></span></li>
                                 </ul>
-                                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat </p>
-                                <a class="readmore" href="blog-details.html">Read more</a>
+                                <p>Các mẫu áo đẹp nam đang được ưa chuộng hiện nay </p>
+                                <a class="readmore" href="blog.aspx">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -390,13 +390,13 @@
                     <!-- Single Blog Start -->
                     <div class="blog col">
                         <div class="blog-inner">
-                            <div class="media"><a href="blog-details.html" class="image"><img src="Anh/Logo/Brushed-Back-David-Beckham-Hairstyles.jpg" alt=""></a></div>
+                            <div class="media"><a href="blog.aspx" class="image"><img src="Anh/Logo/Brushed-Back-David-Beckham-Hairstyles.jpg" alt=""></a></div>
                             <div class="content">
-                                <h3 class="title"><a href="blog-details.html">Bí Quyết Tóc Đẹp</a></h3>
+                                <h3 class="title"><a href="blog-details.html">Bí quyết ăn mặc đẹp</a></h3>
                                 <ul class="meta">
                                     <li><i class="fa fa-calendar"></i><span class="date-time"><span class="date">20</span><span class="separator">-</span><span class="month">Jul</span></span></li>
                                 </ul>
-                                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat </p>
+                                <p>Các diễn viên nổi tiếng đa phần nhờ danh tiếng của họ thông qua công việc mà họ làm ra , và phần nhỏ góp sức cho danh tiếng của họ càng nâng cao là nhờ cách ăn mặc hợp thời trang  </p>
                                 <a class="readmore" href="Blog.aspx">Read more</a>
                             </div>
                         </div>
@@ -405,14 +405,14 @@
                     <!-- Single Blog Start -->
                     <div class="blog col">
                         <div class="blog-inner">
-                            <div class="media"><a href="blog-details.html" class="image"><img src="Anh/Logo/San pam sap Kevin.jpg" alt=""></a></div>
+                            <div class="media"><a href="Blog.aspx" class="image"><img src="Anh/Logo/chatluong.jpg" alt=""></a></div>
                             <div class="content">
                                 <h3 class="title"><a href="blog-details.html">Đánh Giá Sản Phẩm này có Tốt</a></h3>
                                 <ul class="meta">
                                     <li><i class="fa fa-calendar"></i><span class="date-time"><span class="date">20</span><span class="separator">-</span><span class="month">Jul</span></span></li>
                                 </ul>
-                                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat </p>
-                                <a class="readmore" href="blog-details.html">Read more</a>
+                                <p>Để đánh giá 1 sản phẩm có tốt không chúng ta thường đánh giá qua hình thức bên ngoài cũng như chất liệu bên trong </p>
+                                <a class="readmore" href="Blog.aspx">Read more</a>
                             </div>
                         </div>
                     </div>

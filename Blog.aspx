@@ -12,7 +12,7 @@
                     <div class="page-banner text-center">
                         <h1>Tin Tức Mỗi Ngày</h1>
                         <ul class="page-breadcrumb">
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="TrangChu.aspx">Home</a></li>
                             <li>Blog</li>
                         </ul>
                     </div>
@@ -42,47 +42,30 @@
                     <div class="common-sidebar-widget">
                         <h3 class="sidebar-title">Bài Viết Theo Tháng</h3>
                         <ul class="sidebar-list">
-                            <li><a href="#"><i class="fa fa-angle-right"></i>March 2015 <span class="count">(4)</span></a></li>
-                            <li><a href="#"><i class="fa fa-angle-right"></i>December 2014 <span class="count">(7)</span></a></li>
-                            <li><a href="#"><i class="fa fa-angle-right"></i>November 2014 <span class="count">(8)</span></a></li>
-                            <li><a href="#"><i class="fa fa-angle-right"></i>September 2014 <span class="count">(1)</span></a></li>
-                            <li><a href="#"><i class="fa fa-angle-right"></i>August 2014 <span class="count">(4)</span></a></li>
+                            <li><a href="#"><i class="fa fa-angle-right"></i>March 2022 <span class="count">(4)</span></a></li>
+                            <li><a href="#"><i class="fa fa-angle-right"></i>December 2023 <span class="count">(7)</span></a></li>
+                            <li><a href="#"><i class="fa fa-angle-right"></i>November 2022 <span class="count">(8)</span></a></li>
+                            <li><a href="#"><i class="fa fa-angle-right"></i>September 2024 <span class="count">(1)</span></a></li>
+                         
                         </ul>
                     </div>
-                    <!-- Single Sidebar End  -->
-                    <!-- Single Sidebar Start  -->
-                    <div class="common-sidebar-widget">
-                        <h3 class="sidebar-title">Bài Viết Mới</h3>
-                        <ul class="sidebar-list">
-                            <li><a href="#"><i class="fa fa-angle-right"></i>Review sáp vuốt tóc Urban Primate Clay, hợp cho tóc Việt? <span class="count"></span></a></li>
-                            <li><a href="#"><i class="fa fa-angle-right"></i>TOP Các loại sáp vuốt tóc nam tốt nhất nên dùng thử một lần trong đời <span class="count"></span></a></li>
-                            <li><a href="#"><i class="fa fa-angle-right"></i>Thương hiệu “BÍ ẨN” tại các tiệm tóc Barber Shop ở Việt nam<span class="count"></span></a></li>
-                            <li><a href="#"><i class="fa fa-angle-right"></i>Top 5 Pre Styling Tonic – Xịt tạo phồng tóc dạng OIL, TONIC được nhiều người dùng nhất hiện nay<span class="count"></span></a></li>
-                            <li><a href="#"><i class="fa fa-angle-right"></i>Đánh giá Dapper Dan Heavy Hold Pomade – Liệu có được TỐT<span class="count"></span></a></li>
-                        </ul>
-                    </div>
-                    <!-- Single Sidebar End  -->
-                    <!-- Single Sidebar Start  -->
-                    <div class="common-sidebar-widget">
-                        <h3 class="sidebar-title bb-0">Thẻ</h3>
-                        <ul class="sidebar-tag">
-                            <li><a href="#">Sáp Vuốt tóc</a></li>
-                            <li><a href="#">Nước Hoa</a></li>
-                            <li><a href="#">Vocacnic Clay 2018</a></li>
-                            <li><a href="#">Tobaco</li>
-                            <li><a href="#">Saxuke</a></li>
-                            <li><a href="#">For Men</a></li>
-                        </ul>
-                    </div>
-                    <!-- Single Sidebar End  -->
-                    <!-- Single Sidebar Start  -->
+
                     <div class="common-sidebar-widget">
                         <div class="single-banner">
                             <a href="#">
-                                <img src="Anh/Logo/Anh dọc 1.jpg" alt="">
+                                <img src="Anh/AnhSp/Anh dọc 1.jpg" alt="">
+                          
                             </a>
                         </div>
                     </div>
+                     <div class="common-sidebar-widget">
+                             <div class="single-banner">
+                                 <a href="#">
+                                     <img src="Anh/AnhSp/Anhao2.jfif" alt="">
+       
+                                 </a>
+                             </div>
+                         </div>
                     <!-- Single Sidebar End  -->
                 </div>
                 <div class="col-lg-9 order-lg-2 order-1">

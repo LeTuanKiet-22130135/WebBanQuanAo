@@ -37,7 +37,7 @@
                             <!--Links start-->
                             <div class="header-top-links">
                                 <ul>
-                                    <li><a href="#"><i class="fa fa-phone"></i>(08) 123 456 888</a></li>
+                                    <li><a href="#"><i class="fa fa-phone"></i>0898228222</a></li>
                                     <li><a href="#"><i class="fa fa-envelope-open-o"></i>jqkmail@gmail.com</a></li>
                                 </ul>
                             </div>
@@ -103,45 +103,8 @@
                         <div class="col-lg-6 col-md-6 col-12 order-lg-2 order-md-2 order-3 d-flex justify-content-center">
                             <nav class="main-menu">
                                 <ul>
-                                    <li><a href="TrangChu.aspx">Home</a>
-                                    </li>
-                                    <li><a href="#">Shop</a>
-                                        <ul class="mega-menu four-column">
-<%--<asp:Repeater ID="RpDanhMuc" runat="server" OnItemDataBound="rptMenu_OnItemBound">
-    <ItemTemplate>
-        <li><a class="item-link" href='/SanPham.aspx?maDanhMuc=<%#:Eval("maDanhMuc") %>'><%#:Eval("tenDanhMuc") %></a>
-            <ul>
-                <asp:Repeater ID="rptChildMenu" runat="server">
-            <ItemTemplate>
-                <li><a href='/SanPham.aspx?maDanhMuc=<%#:Eval("maDanhMuc") %>'><%#:Eval("tenDanhMuc") %></a></li>
-            </ItemTemplate>
-              </asp:Repeater>
-           </ul>
-        </li>
-    </ItemTemplate>
-</asp:Repeater>--%>
-                                            <li><a href="SanPhamToc.aspx" class="item-link">Sản Phẩm Tóc</a>
-                                                <ul>
-                                                    <li><a href="compare.html">Gôm Xịt</a></li>
-                                                    <li><a href="cart.html">Sáp Vuốt Tóc</a></li>
-                                                    <li><a href="checkout.html">Dầu Gội</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="NuocHoa.aspx" class="item-link">Nước Hoa</a>
-                                                <ul>
-                                                    <li><a href="shop.html">Chanel</a></li>
-                                                    <li><a href="shop-three-column.html">Tobacco</a></li>
-                                                    <li><a href="shop-four-column.html">For Boss</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="ChamSocDa.aspx" class="item-link">Chăm Sóc Da</a>
-                                                <ul>
-                                                    <li><a href="single-product.html">Nivea Men</a></li>
-                                                    <li><a href="single-product-variable.html">Clinique</a></li>
-                                                    <li><a href="single-product-affiliate.html">Clear Men</a> </li>                                           
-                                                </ul>
-                                            </li>
-                                        </ul>
+                                    <li><a href="TrangChu.aspx">Home</a>                                   </li>
+                                    <li><a href="Shop.aspx">Shop</a>                                      
                                     </li>
                                     <li><a href="Blog.aspx">Blog</a></li>
                                     <li><a href="GioiThieu.aspx">Giới Thiệu</a></li>
@@ -258,9 +221,9 @@
                         <div class="footer-widget col-lg-3 col-md-6 col-sm-6 col-12 mb-40 mb-xs-35">
                             <h4 class="title"><span class="text">Liên Hệ</span></h4>
                             <ul class="address">
-                                <li><i class="fa fa-home"></i><span>HH2 BacHa building, Tohuu Street Hanoi, Vietnam</span>
+                                <li><i class="fa fa-home"></i><span>Trường đại học nông lâm thành phố Hồ Chí Minh</span>
                                 </li>
-                                <li><i class="fa fa-phone"></i><span><a href="#">(08) 123 456 888</a></span></li>
+                                <li><i class="fa fa-phone"></i><span><a href="#">0898228222</a></span></li>
                                 <li><i class="fa fa-envelope-o"></i><span><a href="#">jqkmail@gmail.com</a></span></li>
                             </ul>
                             <div class="payment-box mt-15 mb-15">
@@ -279,7 +242,7 @@
                     <div class="row justify-content-between align-items-center">
                         <div class="col-lg-6 col-md-6 col-sm-8">
                             <div class="copyright text-left">
-                                <p>Copyright &copy;2018 <a href="#">JQK SHOP</a>. All rights reserved.</p>
+                              
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-4">

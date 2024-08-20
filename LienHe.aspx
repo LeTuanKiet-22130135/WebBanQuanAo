@@ -27,7 +27,7 @@
             <div id="contact-map" class="contact-map">
                 <center>
                 <h2>Vị Trí Map</h2>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3725.4796767870907!2d105.77622851488248!3d20.97340068602842!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3134532b891f24db%3A0xfe97bb9176d92787!2zQsawdSDEkWnhu4duIEjDoCDEkMO0bmc!5e0!3m2!1svi!2s!4v1612695715288!5m2!1svi!2s" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.2145947051067!2d106.78918677480638!3d10.871276389283311!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3175276398969f7b%3A0x9672b7efd0893fc4!2zVHLGsOG7nW5nIMSQ4bqhaSBo4buNYyBOw7RuZyBMw6JtIFRQLiBI4buTIENow60gTWluaA!5e0!3m2!1svi!2s!4v1723982910969!5m2!1svi!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
             </center>
             </div>
         </div>
@@ -44,7 +44,7 @@
                             <ul>
                                 <li>
                                     <span class="icon"><i class="pe-7s-map"></i></span>
-                                    <span class="text"><span>Stock Building, 125 Main Street 1st Lane, San Francisco, USA</span></span>
+                                    <span class="text"><span>Trường Đại Học Nông Lâm thành phố Hồ Chí Minh</span></span>
                                 </li>
                                 <li>
                                     <span class="icon"><i class="pe-7s-call"></i></span>
