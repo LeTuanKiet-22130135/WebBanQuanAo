@@ -67,7 +67,7 @@ namespace TT_ShopJQK.Admin
         {
             //grdShoes.DataSource = data.lsProduct();
             //grdShoes.DataBind();
-            string sqlCon = @"Data Source=LAPTOP-IA9NJULV\SQL;Initial Catalog=JQKShop;Integrated Security=True";
+            string sqlCon = @"Data Source=LAPTOP-4SO828CP\SQLEXPRESS;Initial Catalog=JQKShop;Integrated Security=True";
 
             SqlConnection con = new SqlConnection(sqlCon);
             string query = "select IDHD, ChiTietHoaDon.maSP, ChiTietHoaDon.donGia, soLuong, tenSP, hinhAnh " +

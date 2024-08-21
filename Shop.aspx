@@ -64,7 +64,7 @@
                                      <img style="height:350px;" src="Anh/Logo/Anh1.jpg" alt="">
                                 </div>
                                 <div class="shop-banner-title">
-                                    <h2>Nước Hoa</h2>
+                                    <h2>Shop quần áo</h2>
                                 </div>
                             </div>
                         </div>
@@ -119,7 +119,6 @@
                                             <div class="product-grid-view">
                                                 <div class="row">
                                                    
-
                                       <asp:Repeater ID="RncH" runat="server" DataSourceID="SqlDataSource1">
                                               <ItemTemplate>
                                                    <div class="col-lg-4 col-md-6 col-sm-6">
@@ -156,7 +155,7 @@
                                                 </div>
                                               </ItemTemplate>
                                             </asp:Repeater>                             
-                                       <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:JQKShopConnectionString2 %>" SelectCommand="SELECT * FROM [showNướcHoa]"></asp:SqlDataSource>
+                                       <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:JQKShopConnectionString2 %>" SelectCommand="SELECT * FROM [ChiTietSanPham]"></asp:SqlDataSource>
                        
                                                         </div>
                                                        
@@ -173,11 +172,7 @@
                         <div class="row mb-30 mb-sm-40 mb-xs-30">
                             <div class="col">
                                 <ul class="page-pagination">
-                                    <li><a href="#"><i class="fa fa-angle-left"></i></a></li>
-                                    <li class="active"><a href="#">01</a></li>
-                                    <li><a href="#">02</a></li>
-                                    <li><a href="#">03</a></li>
-                                    <li><a href="#"><i class="fa fa-angle-right"></i></a></li>
+                                    
                                 </ul>
                             </div>
                         </div>

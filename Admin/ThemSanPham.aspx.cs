@@ -31,7 +31,8 @@ namespace TT_ShopJQK.Admin
                 bo.thongTinSP = txtgioithieu.Text;
                 bo.dungTich = txtDungtich.Text;
                 bo.hinhAnh = txtAnhd.FileName;
-               
+                string path = Server.MapPath("\\Anh\\AnhSp\\") + txtAnhd.FileName;
+                txtAnhd.SaveAs(path);
                 da.Them(bo);
                 the.Text = "them thanh cong";
             }

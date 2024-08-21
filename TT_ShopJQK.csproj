@@ -125,7 +125,7 @@
     <Content Include="Admin\pages\ui-features\buttons.html" />
     <Content Include="Admin\pages\ui-features\typography.html" />
     <Content Include="Admin\QuanLyDonHang.aspx" />
-    <Content Include="Admin\QuanLyMyPham.aspx" />
+    <Content Include="Admin\QuanLySanPham.aspx" />
     <Content Include="Admin\QuanLyUsers.aspx" />
     <Content Include="SanPham.aspx" />
     <Content Include="sl.txt" />
@@ -295,12 +295,12 @@
     <Compile Include="Admin\QuanLyDonHang.aspx.designer.cs">
       <DependentUpon>QuanLyDonHang.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Admin\QuanLyMyPham.aspx.cs">
-      <DependentUpon>QuanLyMyPham.aspx</DependentUpon>
+    <Compile Include="Admin\QuanLySanPham.aspx.cs">
+      <DependentUpon>QuanLySanPham.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Admin\QuanLyMyPham.aspx.designer.cs">
-      <DependentUpon>QuanLyMyPham.aspx</DependentUpon>
+    <Compile Include="Admin\QuanLySanPham.aspx.designer.cs">
+      <DependentUpon>QuanLySanPham.aspx</DependentUpon>
     </Compile>
     <Compile Include="Admin\QuanLyUsers.aspx.cs">
       <DependentUpon>QuanLyUsers.aspx</DependentUpon>

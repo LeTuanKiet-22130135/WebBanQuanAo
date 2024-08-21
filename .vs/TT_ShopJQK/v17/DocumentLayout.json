@@ -3,64 +3,24 @@
   "WorkspaceRootPath": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|d:\\doan.net\\drive-download-20240817t063546z-001\\tt_shopjqk\\tt_shopjqk\\admin\\quantri.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|solutionrelative:admin\\quantri.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|d:\\doan.net\\drive-download-20240817t063546z-001\\tt_shopjqk\\tt_shopjqk\\admin\\quanlysanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|solutionrelative:admin\\quanlysanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|d:\\doan.net\\drive-download-20240817t063546z-001\\tt_shopjqk\\tt_shopjqk\\gioithieu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|solutionrelative:gioithieu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|d:\\doan.net\\drive-download-20240817t063546z-001\\tt_shopjqk\\tt_shopjqk\\shop.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|solutionrelative:shop.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|d:\\doan.net\\drive-download-20240817t063546z-001\\tt_shopjqk\\tt_shopjqk\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|solutionrelative:site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|d:\\doan.net\\drive-download-20240817t063546z-001\\tt_shopjqk\\tt_shopjqk\\trangchu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|solutionrelative:trangchu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|d:\\doan.net\\drive-download-20240817t063546z-001\\tt_shopjqk\\tt_shopjqk\\trangchu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|solutionrelative:trangchu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|d:\\doan.net\\drive-download-20240817t063546z-001\\tt_shopjqk\\tt_shopjqk\\blog.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|solutionrelative:blog.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\blog.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|solutionrelative:blog.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\blog.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|solutionrelative:blog.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\lienhe.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|solutionrelative:lienhe.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\lienhe.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|solutionrelative:lienhe.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\lienhe.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|solutionrelative:lienhe.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\giohang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|solutionrelative:giohang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\dangnhap.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|solutionrelative:dangnhap.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\thanhtoan.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|solutionrelative:thanhtoan.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\giohang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|solutionrelative:giohang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|d:\\doan.net\\drive-download-20240817t063546z-001\\tt_shopjqk\\tt_shopjqk\\chitietsanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|solutionrelative:chitietsanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,6 +35,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "QuanTri.Master",
+              "DocumentMoniker": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\Admin\\QuanTri.Master",
+              "RelativeDocumentMoniker": "Admin\\QuanTri.Master",
+              "ToolTip": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\Admin\\QuanTri.Master",
+              "RelativeToolTip": "Admin\\QuanTri.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-21T07:14:52.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuanLySanPham.aspx",
+              "DocumentMoniker": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\Admin\\QuanLySanPham.aspx",
+              "RelativeDocumentMoniker": "Admin\\QuanLySanPham.aspx",
+              "ToolTip": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\Admin\\QuanLySanPham.aspx",
+              "RelativeToolTip": "Admin\\QuanLySanPham.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-21T07:13:32.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GioiThieu.aspx",
+              "DocumentMoniker": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\GioiThieu.aspx",
+              "RelativeDocumentMoniker": "GioiThieu.aspx",
+              "ToolTip": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\GioiThieu.aspx",
+              "RelativeToolTip": "GioiThieu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-21T07:06:29.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChiTietSanPham.aspx",
+              "DocumentMoniker": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\ChiTietSanPham.aspx",
+              "RelativeDocumentMoniker": "ChiTietSanPham.aspx",
+              "ToolTip": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\ChiTietSanPham.aspx",
+              "RelativeToolTip": "ChiTietSanPham.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-21T06:31:34.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Shop.aspx",
               "DocumentMoniker": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\Shop.aspx",
               "RelativeDocumentMoniker": "Shop.aspx",
@@ -82,180 +94,7 @@
               "RelativeToolTip": "Shop.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-08-20T13:05:22.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Site1.Master",
-              "DocumentMoniker": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\Site1.Master",
-              "RelativeDocumentMoniker": "Site1.Master",
-              "ToolTip": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\Site1.Master",
-              "RelativeToolTip": "Site1.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-08-20T12:58:44.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TrangChu.aspx",
-              "DocumentMoniker": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\TrangChu.aspx",
-              "RelativeDocumentMoniker": "TrangChu.aspx",
-              "ToolTip": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\TrangChu.aspx",
-              "RelativeToolTip": "TrangChu.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-08-20T11:40:16.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TrangChu.aspx.cs",
-              "DocumentMoniker": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\TrangChu.aspx.cs",
-              "RelativeDocumentMoniker": "TrangChu.aspx.cs",
-              "ToolTip": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\TrangChu.aspx.cs",
-              "RelativeToolTip": "TrangChu.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T11:40:13.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Blog.aspx.designer.cs",
-              "DocumentMoniker": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\Blog.aspx.designer.cs",
-              "RelativeDocumentMoniker": "Blog.aspx.designer.cs",
-              "ToolTip": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\Blog.aspx.designer.cs",
-              "RelativeToolTip": "Blog.aspx.designer.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T12:44:37.944Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Blog.aspx.cs",
-              "DocumentMoniker": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\Blog.aspx.cs",
-              "RelativeDocumentMoniker": "Blog.aspx.cs",
-              "ToolTip": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\Blog.aspx.cs",
-              "RelativeToolTip": "Blog.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T12:40:44.71Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Blog.aspx",
-              "DocumentMoniker": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\Blog.aspx",
-              "RelativeDocumentMoniker": "Blog.aspx",
-              "ToolTip": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\Blog.aspx",
-              "RelativeToolTip": "Blog.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-08-18T12:40:25.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LienHe.aspx",
-              "DocumentMoniker": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\LienHe.aspx",
-              "RelativeDocumentMoniker": "LienHe.aspx",
-              "ToolTip": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\LienHe.aspx",
-              "RelativeToolTip": "LienHe.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-08-18T12:07:37.605Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LienHe.aspx.designer.cs",
-              "DocumentMoniker": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\LienHe.aspx.designer.cs",
-              "RelativeDocumentMoniker": "LienHe.aspx.designer.cs",
-              "ToolTip": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\LienHe.aspx.designer.cs",
-              "RelativeToolTip": "LienHe.aspx.designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T12:07:26.905Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LienHe.aspx.cs",
-              "DocumentMoniker": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\LienHe.aspx.cs",
-              "RelativeDocumentMoniker": "LienHe.aspx.cs",
-              "ToolTip": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\LienHe.aspx.cs",
-              "RelativeToolTip": "LienHe.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T12:07:22.75Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GioHang.aspx.cs",
-              "DocumentMoniker": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\GioHang.aspx.cs",
-              "RelativeDocumentMoniker": "GioHang.aspx.cs",
-              "ToolTip": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\GioHang.aspx.cs",
-              "RelativeToolTip": "GioHang.aspx.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAFMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T12:27:23.05Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ThanhToan.aspx.cs",
-              "DocumentMoniker": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\ThanhToan.aspx.cs",
-              "RelativeDocumentMoniker": "ThanhToan.aspx.cs",
-              "ToolTip": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\ThanhToan.aspx.cs",
-              "RelativeToolTip": "ThanhToan.aspx.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T12:04:57.231Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "GioHang.aspx",
-              "DocumentMoniker": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\GioHang.aspx",
-              "RelativeDocumentMoniker": "GioHang.aspx",
-              "ToolTip": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\GioHang.aspx",
-              "RelativeToolTip": "GioHang.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-08-17T12:04:49.269Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DangNhap.aspx.cs",
-              "DocumentMoniker": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\DangNhap.aspx.cs",
-              "RelativeDocumentMoniker": "DangNhap.aspx.cs",
-              "ToolTip": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\DangNhap.aspx.cs",
-              "RelativeToolTip": "DangNhap.aspx.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T11:58:03.106Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Web.config",
-              "DocumentMoniker": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\Web.config",
-              "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\Web.config",
-              "RelativeToolTip": "Web.config",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-08-17T11:39:06.384Z",
+              "WhenOpened": "2024-08-21T06:31:32.538Z",
               "EditorCaption": ""
             }
           ]
