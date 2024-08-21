@@ -1,0 +1,559 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TT_ShopJQK</RootNamespace>
+    <AssemblyName>TT_ShopJQK</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort>44309</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>..\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Admin\assets\css\style.css" />
+    <Content Include="Admin\assets\images\dashboard\circle.svg" />
+    <Content Include="Admin\assets\images\dashboard\img_1.jpg" />
+    <Content Include="Admin\assets\images\dashboard\img_2.jpg" />
+    <Content Include="Admin\assets\images\dashboard\img_3.jpg" />
+    <Content Include="Admin\assets\images\dashboard\img_4.jpg" />
+    <Content Include="Admin\assets\images\faces-clipart\pic-1.png" />
+    <Content Include="Admin\assets\images\faces-clipart\pic-2.png" />
+    <Content Include="Admin\assets\images\faces-clipart\pic-3.png" />
+    <Content Include="Admin\assets\images\faces-clipart\pic-4.png" />
+    <Content Include="Admin\assets\images\faces\face1.jpg" />
+    <Content Include="Admin\assets\images\faces\face2.jpg" />
+    <Content Include="Admin\assets\images\faces\face3.jpg" />
+    <Content Include="Admin\assets\images\faces\face4.jpg" />
+    <Content Include="Admin\assets\images\favicon.ico" />
+    <Content Include="Admin\assets\images\logo-mini.svg" />
+    <Content Include="Admin\assets\images\logo.svg" />
+    <Content Include="Admin\assets\js\chart.js" />
+    <Content Include="Admin\assets\js\dashboard.js" />
+    <Content Include="Admin\assets\js\file-upload.js" />
+    <Content Include="Admin\assets\js\hoverable-collapse.js" />
+    <Content Include="Admin\assets\js\misc.js" />
+    <Content Include="Admin\assets\js\off-canvas.js" />
+    <Content Include="Admin\assets\js\todolist.js" />
+    <Content Include="Admin\assets\vendors\chart.js\Chart.min.js" />
+    <Content Include="Admin\assets\vendors\css\vendor.bundle.base.css" />
+    <Content Include="Admin\assets\vendors\js\vendor.bundle.base.js" />
+    <Content Include="Admin\assets\vendors\mdi\css\materialdesignicons.min.css" />
+    <Content Include="Admin\DuyetDon.aspx" />
+    <Content Include="Anh\AnhSp\Anh dọc 1.jpg" />
+    <Content Include="Anh\AnhSp\Anhao2.jfif" />
+    <Content Include="Anh\Logo\Anh1.jpg" />
+    <Content Include="Anh\Logo\Anh2.jpg" />
+    <Content Include="Anh\Logo\Anhao.jpg" />
+    <Content Include="Anh\Logo\banner.jpg" />
+    <Content Include="Anh\Logo\banner1.jpg" />
+    <Content Include="Anh\Logo\banner2.jpg" />
+    <Content Include="Anh\Logo\banner3.jpg" />
+    <Content Include="Anh\Logo\chatluong.jpg" />
+    <Content Include="Global.asax" />
+    <Content Include="Admin\HomeAdmin.aspx" />
+    <Content Include="Admin\LoginAdmin.aspx" />
+    <Content Include="Admin\pages\charts\chartjs.html" />
+    <Content Include="Admin\pages\forms\basic_elements.html" />
+    <Content Include="Admin\pages\icons\mdi.html" />
+    <Content Include="Admin\pages\samples\blank-page.html" />
+    <Content Include="Admin\pages\samples\error-404.html" />
+    <Content Include="Admin\pages\samples\error-500.html" />
+    <Content Include="Admin\pages\samples\login.html" />
+    <Content Include="Admin\pages\samples\register.html" />
+    <Content Include="Admin\pages\tables\basic-table.html" />
+    <Content Include="Admin\pages\ui-features\buttons.html" />
+    <Content Include="Admin\pages\ui-features\typography.html" />
+    <Content Include="Admin\QuanLyDonHang.aspx" />
+    <Content Include="Admin\QuanLySanPham.aspx" />
+    <Content Include="Admin\QuanLyUsers.aspx" />
+    <Content Include="SanPham.aspx" />
+    <Content Include="sl.txt" />
+    <Content Include="Admin\SuaSanPham.aspx" />
+    <Content Include="Admin\SuaUsers.aspx" />
+    <Content Include="Admin\ThemSanPham.aspx" />
+    <Content Include="Admin\ThemUsers.aspx" />
+    <Content Include="Admin\ThongKe.aspx" />
+    <Content Include="Anh\AnhSp\Chanel .jpg" />
+    <Content Include="Anh\AnhSp\Clinique .jpg" />
+    <Content Include="Anh\AnhSp\kevin-murphy-rough.jpg" />
+    <Content Include="Anh\AnhSp\Ocaen.jpg" />
+    <Content Include="Anh\AnhSp\product-9.jpg" />
+    <Content Include="Anh\AnhSp\The Pather.jpeg" />
+    <Content Include="Anh\AnhSp\Nivea.jpg" />
+    <Content Include="Anh\AnhSp\Original Clay.jpg" />
+    <Content Include="Anh\AnhSp\White .jpg" />
+    <Content Include="Anh\AnhSp\Tobaco.jpg" />
+    <Content Include="Anh\AnhSp\vocanic clay.jpg" />
+    <Content Include="Anh\AnhSp\gôm butterfly.png" />
+    <Content Include="Anh\Logo\banner vừa web.png" />
+    <Content Include="Anh\Logo\Anh dọc 1.jpg" />
+    <Content Include="Anh\Logo\anh lo bolasi.jpg" />
+    <Content Include="Anh\Logo\anh sáp cam kevin.jpg" />
+    <Content Include="Anh\Logo\Brushed-Back-David-Beckham-Hairstyles.jpg" />
+    <Content Include="Anh\Logo\Bìa SápJQK-01web.jpg" />
+    <Content Include="Anh\Logo\Bìa SápJQK-02web.jpg" />
+    <Content Include="Anh\Logo\CaptureLogo.JPG" />
+    <Content Include="Anh\Logo\iconATM.JPG" />
+    <Content Include="Anh\Logo\iconmaster.JPG" />
+    <Content Include="Anh\Logo\iconVisa.JPG" />
+    <Content Include="Anh\Logo\Loai San Pham Hari.jpg" />
+    <Content Include="Anh\Logo\LogoSapJQKaaa.png" />
+    <Content Include="Anh\Logo\LogoSapJQKChữ.png" />
+    <Content Include="Anh\Logo\LogoSapJQKNho.jpg" />
+    <Content Include="Anh\Logo\Quang1.JPG" />
+    <Content Include="Anh\Logo\San pam sap Kevin.jpg" />
+    <Content Include="assets\css\bootstrap.min.css" />
+    <Content Include="assets\css\helper.css" />
+    <Content Include="assets\css\iconfont.min.css" />
+    <Content Include="assets\css\plugins.css" />
+    <Content Include="assets\css\style.css" />
+    <Content Include="assets\fonts\fontawesome-webfont3e6e.svg" />
+    <Content Include="assets\fonts\Pe-icon-7-strokebb1d.svg" />
+    <Content Include="assets\images\about\about-1.jpg" />
+    <Content Include="assets\images\author\test-author-1.png" />
+    <Content Include="assets\images\author\test-author-2.png" />
+    <Content Include="assets\images\author\test-author-3.png" />
+    <Content Include="assets\images\author\test-author-4.png" />
+    <Content Include="assets\images\author\test-author-5.png" />
+    <Content Include="assets\images\banner\category-image.jpg" />
+    <Content Include="assets\images\banner\h1-banner-1.png" />
+    <Content Include="assets\images\banner\h1-banner-2.png" />
+    <Content Include="assets\images\banner\h1-banner-3.png" />
+    <Content Include="assets\images\banner\h4-banner-1.png" />
+    <Content Include="assets\images\banner\h4-banner-2.png" />
+    <Content Include="assets\images\blog\blog-details-1.jpg" />
+    <Content Include="assets\images\blog\blog-details-2.jpg" />
+    <Content Include="assets\images\blog\blog-details-3.jpg" />
+    <Content Include="assets\images\blog\blog1.png" />
+    <Content Include="assets\images\blog\blog2.png" />
+    <Content Include="assets\images\blog\blog3.png" />
+    <Content Include="assets\images\brands\brand-1.png" />
+    <Content Include="assets\images\brands\brand-2.png" />
+    <Content Include="assets\images\brands\brand-3.png" />
+    <Content Include="assets\images\brands\brand-4.png" />
+    <Content Include="assets\images\brands\brand-5.png" />
+    <Content Include="assets\images\cart\cart-1.jpg" />
+    <Content Include="assets\images\cart\cart-2.jpg" />
+    <Content Include="assets\images\categorie\cate-1.png" />
+    <Content Include="assets\images\categorie\cate-2.png" />
+    <Content Include="assets\images\categorie\cate-3.png" />
+    <Content Include="assets\images\deal-product\product-1.jpg" />
+    <Content Include="assets\images\deal-product\product-2.jpg" />
+    <Content Include="assets\images\deal-product\product-3.jpg" />
+    <Content Include="assets\images\deal-product\product-4.jpg" />
+    <Content Include="assets\images\favicon.ico" />
+    <Content Include="assets\images\icons\author.png" />
+    <Content Include="assets\images\language\english.png" />
+    <Content Include="assets\images\logo-white.png" />
+    <Content Include="assets\images\logo.png" />
+    <Content Include="assets\images\logofoo.png" />
+    <Content Include="assets\images\payment.png" />
+    <Content Include="assets\images\product\large-product\l-product-1.jpg" />
+    <Content Include="assets\images\product\large-product\l-product-2.jpg" />
+    <Content Include="assets\images\product\large-product\l-product-3.jpg" />
+    <Content Include="assets\images\product\large-product\l-product-4.jpg" />
+    <Content Include="assets\images\product\large-product\l-product-5.jpg" />
+    <Content Include="assets\images\product\product-1.jpg" />
+    <Content Include="assets\images\product\product-10.jpg" />
+    <Content Include="assets\images\product\product-11.jpg" />
+    <Content Include="assets\images\product\product-12.jpg" />
+    <Content Include="assets\images\product\product-13.jpg" />
+    <Content Include="assets\images\product\product-14.jpg" />
+    <Content Include="assets\images\product\product-15.jpg" />
+    <Content Include="assets\images\product\product-16.jpg" />
+    <Content Include="assets\images\product\product-17.jpg" />
+    <Content Include="assets\images\product\product-18.jpg" />
+    <Content Include="assets\images\product\product-19.jpg" />
+    <Content Include="assets\images\product\product-2.jpg" />
+    <Content Include="assets\images\product\product-3.jpg" />
+    <Content Include="assets\images\product\product-4.jpg" />
+    <Content Include="assets\images\product\product-5.jpg" />
+    <Content Include="assets\images\product\product-6.jpg" />
+    <Content Include="assets\images\product\product-7.jpg" />
+    <Content Include="assets\images\product\product-8.jpg" />
+    <Content Include="assets\images\product\product-9.jpg" />
+    <Content Include="assets\images\product\small-product\s-product-1.jpg" />
+    <Content Include="assets\images\product\small-product\s-product-2.jpg" />
+    <Content Include="assets\images\product\small-product\s-product-3.jpg" />
+    <Content Include="assets\images\product\small-product\s-product-4.jpg" />
+    <Content Include="assets\images\product\small-product\s-product-5.jpg" />
+    <Content Include="assets\images\team\team-1.jpg" />
+    <Content Include="assets\images\team\team-2.jpg" />
+    <Content Include="assets\images\team\team-3.jpg" />
+    <Content Include="assets\js\bootstrap.min.js" />
+    <Content Include="assets\js\main.js" />
+    <Content Include="assets\js\plugins.js" />
+    <Content Include="assets\js\popper.min.js" />
+    <Content Include="assets\js\vendor\jquery-1.12.4.min.js" />
+    <Content Include="assets\js\vendor\modernizr-2.8.3.min.js" />
+    <Content Include="Blog.aspx" />
+    <Content Include="ChamSocDa.aspx" />
+    <Content Include="ChiTietSanPham.aspx" />
+    <Content Include="DangKi.aspx" />
+    <Content Include="DangNhap.aspx" />
+    <Content Include="GioHang.aspx" />
+    <Content Include="GioiThieu.aspx" />
+    <Content Include="LienHe.aspx" />
+    <Content Include="My Account.aspx" />
+    <Content Include="Shop.aspx" />
+    <Content Include="SanPhamToc.aspx" />
+    <Content Include="ThanhToan.aspx" />
+    <Content Include="TimKiem.aspx" />
+    <Content Include="TrangChu.aspx" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin\DuyetDon.aspx.cs">
+      <DependentUpon>DuyetDon.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\DuyetDon.aspx.designer.cs">
+      <DependentUpon>DuyetDon.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\HomeAdmin.aspx.cs">
+      <DependentUpon>HomeAdmin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\HomeAdmin.aspx.designer.cs">
+      <DependentUpon>HomeAdmin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\LoginAdmin.aspx.cs">
+      <DependentUpon>LoginAdmin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\LoginAdmin.aspx.designer.cs">
+      <DependentUpon>LoginAdmin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\QuanLyDonHang.aspx.cs">
+      <DependentUpon>QuanLyDonHang.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\QuanLyDonHang.aspx.designer.cs">
+      <DependentUpon>QuanLyDonHang.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\QuanLySanPham.aspx.cs">
+      <DependentUpon>QuanLySanPham.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\QuanLySanPham.aspx.designer.cs">
+      <DependentUpon>QuanLySanPham.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\QuanLyUsers.aspx.cs">
+      <DependentUpon>QuanLyUsers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\QuanLyUsers.aspx.designer.cs">
+      <DependentUpon>QuanLyUsers.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\QuanTri.Master.cs">
+      <DependentUpon>QuanTri.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\QuanTri.Master.designer.cs">
+      <DependentUpon>QuanTri.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\SuaSanPham.aspx.cs">
+      <DependentUpon>SuaSanPham.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\SuaSanPham.aspx.designer.cs">
+      <DependentUpon>SuaSanPham.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\SuaUsers.aspx.cs">
+      <DependentUpon>SuaUsers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\SuaUsers.aspx.designer.cs">
+      <DependentUpon>SuaUsers.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\ThemSanPham.aspx.cs">
+      <DependentUpon>ThemSanPham.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\ThemSanPham.aspx.designer.cs">
+      <DependentUpon>ThemSanPham.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\ThemUsers.aspx.cs">
+      <DependentUpon>ThemUsers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\ThemUsers.aspx.designer.cs">
+      <DependentUpon>ThemUsers.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\ThongKe.aspx.cs">
+      <DependentUpon>ThongKe.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\ThongKe.aspx.designer.cs">
+      <DependentUpon>ThongKe.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Blog.aspx.cs">
+      <DependentUpon>Blog.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Blog.aspx.designer.cs">
+      <DependentUpon>Blog.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ChamSocDa.aspx.cs">
+      <DependentUpon>ChamSocDa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChamSocDa.aspx.designer.cs">
+      <DependentUpon>ChamSocDa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ChiTietSanPham.aspx.cs">
+      <DependentUpon>ChiTietSanPham.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChiTietSanPham.aspx.designer.cs">
+      <DependentUpon>ChiTietSanPham.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Class\Admin.cs" />
+    <Compile Include="Class\ChiTietHoaDon.cs" />
+    <Compile Include="Class\tbDisplayDataUtil.cs" />
+    <Compile Include="Class\tblChiTietSanPham.cs" />
+    <Compile Include="Class\DanhMucSanPham.cs" />
+    <Compile Include="Class\DataUtil.cs" />
+    <Compile Include="Class\HoaDon.cs" />
+    <Compile Include="Class\Users.cs" />
+    <Compile Include="DangKi.aspx.cs">
+      <DependentUpon>DangKi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DangKi.aspx.designer.cs">
+      <DependentUpon>DangKi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DangNhap.aspx.cs">
+      <DependentUpon>DangNhap.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DangNhap.aspx.designer.cs">
+      <DependentUpon>DangNhap.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GioHang.aspx.cs">
+      <DependentUpon>GioHang.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GioHang.aspx.designer.cs">
+      <DependentUpon>GioHang.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GioiThieu.aspx.cs">
+      <DependentUpon>GioiThieu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GioiThieu.aspx.designer.cs">
+      <DependentUpon>GioiThieu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LienHe.aspx.cs">
+      <DependentUpon>LienHe.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LienHe.aspx.designer.cs">
+      <DependentUpon>LienHe.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="My Account.aspx.cs">
+      <DependentUpon>My Account.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="My Account.aspx.designer.cs">
+      <DependentUpon>My Account.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Shop.aspx.cs">
+      <DependentUpon>Shop.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Shop.aspx.designer.cs">
+      <DependentUpon>Shop.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SanPham.aspx.cs">
+      <DependentUpon>SanPham.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SanPham.aspx.designer.cs">
+      <DependentUpon>SanPham.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SanPhamToc.aspx.cs">
+      <DependentUpon>SanPhamToc.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SanPhamToc.aspx.designer.cs">
+      <DependentUpon>SanPhamToc.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Site1.Master.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site1.Master.designer.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+    </Compile>
+    <Compile Include="ThanhToan.aspx.cs">
+      <DependentUpon>ThanhToan.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ThanhToan.aspx.designer.cs">
+      <DependentUpon>ThanhToan.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TimKiem.aspx.cs">
+      <DependentUpon>TimKiem.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TimKiem.aspx.designer.cs">
+      <DependentUpon>TimKiem.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TrangChu.aspx.cs">
+      <DependentUpon>TrangChu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TrangChu.aspx.designer.cs">
+      <DependentUpon>TrangChu.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Admin\assets\fonts\Ubuntu\Ubuntu-Bold.eot" />
+    <Content Include="Admin\assets\fonts\Ubuntu\Ubuntu-Bold.ttf" />
+    <Content Include="Admin\assets\fonts\Ubuntu\Ubuntu-Bold.woff" />
+    <Content Include="Admin\assets\fonts\Ubuntu\Ubuntu-Bold.woff2" />
+    <Content Include="Admin\assets\fonts\Ubuntu\Ubuntu-Light.eot" />
+    <Content Include="Admin\assets\fonts\Ubuntu\Ubuntu-Light.ttf" />
+    <Content Include="Admin\assets\fonts\Ubuntu\Ubuntu-Light.woff" />
+    <Content Include="Admin\assets\fonts\Ubuntu\Ubuntu-Light.woff2" />
+    <Content Include="Admin\assets\fonts\Ubuntu\Ubuntu-Medium.eot" />
+    <Content Include="Admin\assets\fonts\Ubuntu\Ubuntu-Medium.ttf" />
+    <Content Include="Admin\assets\fonts\Ubuntu\Ubuntu-Medium.woff" />
+    <Content Include="Admin\assets\fonts\Ubuntu\Ubuntu-Medium.woff2" />
+    <Content Include="Admin\assets\fonts\Ubuntu\Ubuntu-Regular.eot" />
+    <Content Include="Admin\assets\fonts\Ubuntu\Ubuntu-Regular.ttf" />
+    <Content Include="Admin\assets\fonts\Ubuntu\Ubuntu-Regular.woff" />
+    <Content Include="Admin\assets\fonts\Ubuntu\Ubuntu-Regular.woff2" />
+    <Content Include="Admin\assets\vendors\mdi\fonts\materialdesignicons-webfont61e3.eot" />
+    <Content Include="Admin\assets\vendors\mdi\fonts\materialdesignicons-webfont61e3.ttf" />
+    <Content Include="Admin\assets\vendors\mdi\fonts\materialdesignicons-webfont61e3.woff" />
+    <Content Include="Admin\assets\vendors\mdi\fonts\materialdesignicons-webfont61e3.woff2" />
+    <Content Include="Admin\assets\vendors\mdi\fonts\materialdesignicons-webfontd41d.eot" />
+    <Content Include="Admin\QuanTri.Master" />
+    <Content Include="assets\fonts\fontawesome-webfont3e6e.eot" />
+    <Content Include="assets\fonts\fontawesome-webfont3e6e.ttf" />
+    <Content Include="assets\fonts\fontawesome-webfont3e6e.woff" />
+    <Content Include="assets\fonts\fontawesome-webfont3e6e.woff2" />
+    <Content Include="assets\fonts\fontawesome-webfontd41d.eot" />
+    <Content Include="assets\fonts\Pe-icon-7-strokebb1d.eot" />
+    <Content Include="assets\fonts\Pe-icon-7-strokebb1d.ttf" />
+    <Content Include="assets\fonts\Pe-icon-7-strokebb1d.woff" />
+    <Content Include="assets\fonts\Pe-icon-7-stroked41d.eot" />
+    <Content Include="Anh\Logo\Anh1.webp" />
+    <None Include="packages.config" />
+    <Content Include="Site1.Master" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>63726</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>https://localhost:44309/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
