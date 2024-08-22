@@ -248,7 +248,6 @@
     <Content Include="assets\js\vendor\jquery-1.12.4.min.js" />
     <Content Include="assets\js\vendor\modernizr-2.8.3.min.js" />
     <Content Include="Blog.aspx" />
-    <Content Include="ChamSocDa.aspx" />
     <Content Include="ChiTietSanPham.aspx" />
     <Content Include="DangKi.aspx" />
     <Content Include="DangNhap.aspx" />
@@ -257,7 +256,6 @@
     <Content Include="LienHe.aspx" />
     <Content Include="My Account.aspx" />
     <Content Include="Shop.aspx" />
-    <Content Include="SanPhamToc.aspx" />
     <Content Include="ThanhToan.aspx" />
     <Content Include="TimKiem.aspx" />
     <Content Include="TrangChu.aspx" />
@@ -358,13 +356,6 @@
     <Compile Include="Blog.aspx.designer.cs">
       <DependentUpon>Blog.aspx</DependentUpon>
     </Compile>
-    <Compile Include="ChamSocDa.aspx.cs">
-      <DependentUpon>ChamSocDa.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="ChamSocDa.aspx.designer.cs">
-      <DependentUpon>ChamSocDa.aspx</DependentUpon>
-    </Compile>
     <Compile Include="ChiTietSanPham.aspx.cs">
       <DependentUpon>ChiTietSanPham.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -436,13 +427,6 @@
     </Compile>
     <Compile Include="SanPham.aspx.designer.cs">
       <DependentUpon>SanPham.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="SanPhamToc.aspx.cs">
-      <DependentUpon>SanPhamToc.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="SanPhamToc.aspx.designer.cs">
-      <DependentUpon>SanPhamToc.aspx</DependentUpon>
     </Compile>
     <Compile Include="Site1.Master.cs">
       <DependentUpon>Site1.Master</DependentUpon>

@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|solutionrelative:admin\\quantri.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|d:\\doan.net\\drive-download-20240817t063546z-001\\tt_shopjqk\\tt_shopjqk\\admin\\quanlysanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\admin\\quanlysanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|solutionrelative:admin\\quanlysanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|d:\\doan.net\\drive-download-20240817t063546z-001\\tt_shopjqk\\tt_shopjqk\\gioithieu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\gioithieu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|solutionrelative:gioithieu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|d:\\doan.net\\drive-download-20240817t063546z-001\\tt_shopjqk\\tt_shopjqk\\shop.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\shop.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|solutionrelative:shop.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|d:\\doan.net\\drive-download-20240817t063546z-001\\tt_shopjqk\\tt_shopjqk\\chitietsanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|D:\\DoAn.Net\\drive-download-20240817T063546Z-001\\TT_ShopJQK\\TT_ShopJQK\\chitietsanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{9191C832-B26A-41C9-B002-7BC9EDD7B7AF}|TT_ShopJQK.csproj|solutionrelative:chitietsanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Admin\\QuanLySanPham.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-08-21T07:13:32.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T07:13:32.26Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "GioiThieu.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-08-21T07:06:29.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T07:06:29.52Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "ChiTietSanPham.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-08-21T06:31:34.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T06:31:34.188Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "Shop.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-08-21T06:31:32.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T06:31:32.538Z"
             }
           ]
         }
